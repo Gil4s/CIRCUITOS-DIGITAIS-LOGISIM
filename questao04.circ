@@ -105,19 +105,22 @@
     <comp lib="1" loc="(650,420)" name="OR Gate">
       <a name="inputs" val="4"/>
     </comp>
-    <comp lib="8" loc="(229,117)" name="Text">
+    <comp lib="8" loc="(225,115)" name="Text">
       <a name="text" val="QUESTÃO 4"/>
     </comp>
-    <comp lib="8" loc="(468,249)" name="Text">
+    <comp lib="8" loc="(465,245)" name="Text">
       <a name="text" val="F --&gt; FINAL DE SEMANA"/>
     </comp>
-    <comp lib="8" loc="(507,152)" name="Text">
+    <comp lib="8" loc="(474,415)" name="Text">
+      <a name="text" val="A = U⋅F+H⋅T"/>
+    </comp>
+    <comp lib="8" loc="(505,150)" name="Text">
       <a name="text" val="LEGENDA"/>
     </comp>
     <comp lib="8" loc="(510,190)" name="Text">
       <a name="text" val="H --&gt; ESTAR ENTRE 9:00h A 17:00h"/>
     </comp>
-    <comp lib="8" loc="(516,229)" name="Text">
+    <comp lib="8" loc="(515,225)" name="Text">
       <a name="text" val="T --&gt; TEMPERATURA ACIMA DE 21°C"/>
     </comp>
     <comp lib="8" loc="(560,210)" name="Text">

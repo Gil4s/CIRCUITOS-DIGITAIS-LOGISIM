@@ -118,6 +118,18 @@
       <a name="inputs" val="3"/>
       <a name="size" val="30"/>
     </comp>
+    <comp lib="8" loc="(564,156)" name="Text">
+      <a name="text" val="Y3 = 1 "/>
+    </comp>
+    <comp lib="8" loc="(582,68)" name="Text">
+      <a name="text" val="Y0 = B0⋅B1"/>
+    </comp>
+    <comp lib="8" loc="(585,98)" name="Text">
+      <a name="text" val="Y1 = B0⋅~B1"/>
+    </comp>
+    <comp lib="8" loc="(663,128)" name="Text">
+      <a name="text" val="Y2 = ~B0⋅~B1⋅~B2+B1⋅B2+B0⋅B2"/>
+    </comp>
     <wire from="(110,120)" to="(140,120)"/>
     <wire from="(110,60)" to="(120,60)"/>
     <wire from="(110,90)" to="(130,90)"/>

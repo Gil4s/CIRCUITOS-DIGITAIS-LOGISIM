@@ -81,11 +81,65 @@
     <comp lib="1" loc="(200,100)" name="AND Gate"/>
     <comp lib="1" loc="(200,180)" name="OR Gate"/>
     <comp lib="1" loc="(360,140)" name="AND Gate"/>
+    <comp lib="8" loc="(145,248)" name="Text">
+      <a name="text" val="X = A⋅B⋅D+A⋅B⋅C"/>
+    </comp>
     <comp lib="8" loc="(180,25)" name="Text">
       <a name="text" val="QUESTÃO 1"/>
     </comp>
     <comp lib="8" loc="(185,55)" name="Text">
       <a name="text" val="c)"/>
+    </comp>
+    <comp lib="8" loc="(390,364)" name="Text">
+      <a name="text" val="0 1 1 0 | 0"/>
+    </comp>
+    <comp lib="8" loc="(390,480)" name="Text">
+      <a name="text" val="1 1 0 1 | 1"/>
+    </comp>
+    <comp lib="8" loc="(390,495)" name="Text">
+      <a name="text" val="1 1 1 0 | 1"/>
+    </comp>
+    <comp lib="8" loc="(391,261)" name="Text">
+      <a name="text" val="0 0 0 0 | 0"/>
+    </comp>
+    <comp lib="8" loc="(391,279)" name="Text">
+      <a name="text" val="0 0 0 1 | 0"/>
+    </comp>
+    <comp lib="8" loc="(391,296)" name="Text">
+      <a name="text" val="0 0 1 0 | 0"/>
+    </comp>
+    <comp lib="8" loc="(391,314)" name="Text">
+      <a name="text" val="0 0 1 1 | 0"/>
+    </comp>
+    <comp lib="8" loc="(391,331)" name="Text">
+      <a name="text" val="0 1 0 0 | 0"/>
+    </comp>
+    <comp lib="8" loc="(391,347)" name="Text">
+      <a name="text" val="0 1 0 1 | 0"/>
+    </comp>
+    <comp lib="8" loc="(391,380)" name="Text">
+      <a name="text" val="0 1 1 1 | 0"/>
+    </comp>
+    <comp lib="8" loc="(391,434)" name="Text">
+      <a name="text" val="1 0 1 0 | 0"/>
+    </comp>
+    <comp lib="8" loc="(391,451)" name="Text">
+      <a name="text" val="1 0 1 1 | 0"/>
+    </comp>
+    <comp lib="8" loc="(391,466)" name="Text">
+      <a name="text" val="1 1 0 0 | 0"/>
+    </comp>
+    <comp lib="8" loc="(392,398)" name="Text">
+      <a name="text" val="1 0 0 0 | 0"/>
+    </comp>
+    <comp lib="8" loc="(392,416)" name="Text">
+      <a name="text" val="1 0 0 1 | 0"/>
+    </comp>
+    <comp lib="8" loc="(392,510)" name="Text">
+      <a name="text" val="1 1 1 1 | 1 "/>
+    </comp>
+    <comp lib="8" loc="(427,244)" name="Text">
+      <a name="text" val="A B C D | X                "/>
     </comp>
     <wire from="(200,100)" to="(250,100)"/>
     <wire from="(200,180)" to="(250,180)"/>

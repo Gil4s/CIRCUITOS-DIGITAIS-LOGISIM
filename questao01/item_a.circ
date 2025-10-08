@@ -77,11 +77,41 @@
     <comp lib="1" loc="(190,120)" name="NOT Gate"/>
     <comp lib="1" loc="(240,140)" name="AND Gate"/>
     <comp lib="1" loc="(340,170)" name="OR Gate"/>
+    <comp lib="8" loc="(194,239)" name="Text">
+      <a name="text" val="X = C+~A⋅B"/>
+    </comp>
     <comp lib="8" loc="(200,50)" name="Text">
       <a name="text" val="QUESTÃO 1"/>
     </comp>
     <comp lib="8" loc="(200,80)" name="Text">
       <a name="text" val="a)"/>
+    </comp>
+    <comp lib="8" loc="(460,253)" name="Text">
+      <a name="text" val="1 1 0 | 0"/>
+    </comp>
+    <comp lib="8" loc="(460,269)" name="Text">
+      <a name="text" val="1 1 1 | 1"/>
+    </comp>
+    <comp lib="8" loc="(461,161)" name="Text">
+      <a name="text" val="0 0 0 | 0"/>
+    </comp>
+    <comp lib="8" loc="(461,177)" name="Text">
+      <a name="text" val="0 0 1 | 1"/>
+    </comp>
+    <comp lib="8" loc="(461,192)" name="Text">
+      <a name="text" val="0 1 0 | 1"/>
+    </comp>
+    <comp lib="8" loc="(461,208)" name="Text">
+      <a name="text" val="0 1 1 | 1"/>
+    </comp>
+    <comp lib="8" loc="(461,222)" name="Text">
+      <a name="text" val="1 0 0 | 0"/>
+    </comp>
+    <comp lib="8" loc="(461,239)" name="Text">
+      <a name="text" val="1 0 1 | 1"/>
+    </comp>
+    <comp lib="8" loc="(475,142)" name="Text">
+      <a name="text" val="A B C | X        "/>
     </comp>
     <wire from="(140,120)" to="(160,120)"/>
     <wire from="(140,160)" to="(190,160)"/>

@@ -98,6 +98,39 @@
     <comp lib="8" loc="(225,45)" name="Text">
       <a name="text" val="d)"/>
     </comp>
+    <comp lib="8" loc="(461,513)" name="Text">
+      <a name="text" val="0 0 0 | 0 0"/>
+    </comp>
+    <comp lib="8" loc="(461,559)" name="Text">
+      <a name="text" val="0 1 1 | 0 1"/>
+    </comp>
+    <comp lib="8" loc="(462,527)" name="Text">
+      <a name="text" val="0 0 1 | 1 0"/>
+    </comp>
+    <comp lib="8" loc="(462,544)" name="Text">
+      <a name="text" val="0 1 0 | 1 0"/>
+    </comp>
+    <comp lib="8" loc="(463,575)" name="Text">
+      <a name="text" val="1 0 0 | 1 0"/>
+    </comp>
+    <comp lib="8" loc="(464,495)" name="Text">
+      <a name="text" val="A B C | X Y"/>
+    </comp>
+    <comp lib="8" loc="(464,592)" name="Text">
+      <a name="text" val="1 0 1 | 0 1"/>
+    </comp>
+    <comp lib="8" loc="(464,607)" name="Text">
+      <a name="text" val="1 1 0 | 0 1"/>
+    </comp>
+    <comp lib="8" loc="(464,624)" name="Text">
+      <a name="text" val="1 1 1 | 0 1"/>
+    </comp>
+    <comp lib="8" loc="(543,165)" name="Text">
+      <a name="text" val="X = ~A⋅~B⋅C+~A⋅B⋅~C+A⋅~B⋅~C"/>
+    </comp>
+    <comp lib="8" loc="(613,346)" name="Text">
+      <a name="text" val="Y = B⋅C+A⋅C+A⋅B"/>
+    </comp>
     <wire from="(100,130)" to="(100,140)"/>
     <wire from="(100,140)" to="(100,250)"/>
     <wire from="(100,140)" to="(270,140)"/>
